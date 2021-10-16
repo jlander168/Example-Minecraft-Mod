@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xxx",
+    "xax",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "minecraft:emerald"
+    },
+    "a": {
+      "item": "minecraft:apple"
+    }
+  },
+
+
+  "result": {
+    "item": "mccourse:emerald_apple"
+  }
+}

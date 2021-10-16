@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "xlx",
+    "xlx"
+  ],
+  "key": {
+    "x": {
+      "item": "mccourse:copper_ingot"
+    },
+    "l": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "mccourse:copper_fence_gate"
+  }
+}

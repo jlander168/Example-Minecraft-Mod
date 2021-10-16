@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " xx",
+    " xx",
+    "   "
+  ],
+  "key": {
+    "x": {
+      "item": "mccourse:redwood_log"
+    }
+  },
+  "result": {
+    "item": "mccourse:redwood_planks",
+    "count": 4
+  }
+}
